@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Ignite Shop" src=".github/ignite-shop.png" width="100%">
+  <img alt="Ignite Shop" src=".github/ignite-shop-print.png" width="100%">
 </p>
 
 ## 💻 Project
